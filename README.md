@@ -1,4 +1,20 @@
 # midproject_8
+## Git 워크플로우 순서
+1️⃣ 원격 변경사항 반영
+git pull
+
+2️⃣ 로컬 변경사항 staged
+git add -A
+
+3️⃣ 커밋 (메시지를 구체적으로)
+git commit -m "설명"
+
+4️⃣ 푸시
+git push
+> pull이나 push에서 오류가 난다면 ```git push origin main```의 형태로 입력
+
+<br>
+
 ## 컬럼명
 - 원래 사용하던 데이터셋은 1부터 인덱스가 들어가 있습니다.
 
